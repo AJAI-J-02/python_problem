@@ -1,0 +1,10 @@
+from turtle import Turtle
+
+t=Turtle()
+for i in range(8):
+    t.forward(100)
+    t.left(45)
+    
+
+
+t.done()
